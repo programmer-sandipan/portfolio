@@ -82,7 +82,7 @@ VariableValueUsage--accent#7C4DFFPrimary purple accent--accent2#00E5FFCyan accen
 
 👤 Author & Mentor
 
-Student: Sandipan Maity — B.Sc (CSE), 2nd Year, Haldia Institute of Management
+Student: Sandipan Maity — B.Sc (CS), 2nd Year, Haldia Institute of Management
 GitHub: programmer-sandipan
 LinkedIn: sandipan-maity-35447839a
 Mentor: SK Sahil (AI Developer & Tutor) — Code_ScholarEU on Instagram
